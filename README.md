@@ -11,7 +11,6 @@
 - **Wallet Connection**: Web3Modal
 - **IPFS Storage**: Pinata
 - **Backend Form Handling**: Formspree
-- **Hosting Provider**: DigitalOcean (or your preferred cloud)
 
 ---
 
