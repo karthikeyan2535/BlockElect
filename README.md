@@ -1,29 +1,45 @@
-<<<<<<< HEAD
-# BlockElect
-=======
-# Build & Deploy Your First Decentralized Election Voting DApp | Solidity, Next.js, Hardhat
+# BlockElect: Decentralized Election Voting DApp
 
-Build & Deploy Your First Decentralized Election Voting DApp | Solidity, Next.js, Hardhat
+**BlockElect** is a fully decentralized election voting platform built using **Solidity**, **Next.js**, and **Hardhat**. It leverages blockchain technology to ensure secure, transparent, and tamper-proof elections. This DApp allows users to connect their wallets, vote for candidates, and verify results in real-time.
 
-#### Install Vs Code Editor
+---
 
-```https://code.visualstudio.com/download
-  GET: VsCode Editor
-```
+## 🔧 Tech Stack
 
-#### DEPLOYMENT
+- **Frontend**: React.js (Next.js)
+- **Smart Contracts**: Solidity (Hardhat)
+- **Wallet Connection**: Web3Modal
+- **IPFS Storage**: Pinata
+- **Backend Form Handling**: Formspree
+- **Hosting Provider**: DigitalOcean (or your preferred cloud)
 
+---
 
-```https://nodejs.org/en/download
-  PROVIDER: Digital Ocean
-```
+## 🚀 Features
 
-#### NodeJs & NPM Version
+- ✅ Voter authentication via wallet connection
+- ✅ Candidate registration and listing
+- ✅ Voting mechanism with one vote per address
+- ✅ Real-time result updates
+- ✅ IPFS for storing metadata and images securely
+- ✅ Contact form with Formspree integration
 
-```https://nodejs.org/en/download
-  NodeJs: v18.12.2 / latest version
-  NPM: 10.5.0
-```
+---
+
+## 🛠️ Setup & Installation
+
+### 1. Install VS Code
+[https://code.visualstudio.com/download](https://code.visualstudio.com/download)
+
+### 2. Install Node.js and npm
+[https://nodejs.org/en/download](https://nodejs.org/en/download)
+
+Recommended versions:
+- Node.js: `v18.12.2` or later
+- npm: `v10.5.0`
+
+---
+
 
 #### PInata IPFS
 
@@ -112,4 +128,4 @@ We are using RemixID for deploying the contract and generation of the ABI in the
 }
 
 ```
->>>>>>> 2a9637b (Initial commit of my DApp)
+>>>>>>>(Initial commit of my DApp)
